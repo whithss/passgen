@@ -7,15 +7,15 @@ Este é um simples script em Python que gera senhas aleatórias com opções per
 
 1. Clone o repositório:
 
-   ```bash git clone https://github.com/whithss/passgen```
+   ```git clone https://github.com/whithss/passgen```
 
 2. Navegue até o diretório:
 
-   ```bash cd passgen ```
+   ```cd passgen ```
 
 3. Execute o script:
 
-   ```bash python pass.py ```
+   ```python pass.py ```
 
 4. Siga as instruções para personalizar as opções de senha.
 
