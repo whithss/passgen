@@ -49,3 +49,4 @@ print_green(generated_password)
 # Adicionar uma pausa e impedir entrada após a exibição da senha
 print_yellow("Pressione enter para sair.")
 input()
+os.system('cls' if os.name == 'nt' else 'clear')
